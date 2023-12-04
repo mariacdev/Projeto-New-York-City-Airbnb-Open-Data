@@ -1,4 +1,4 @@
-# Projeto Exapansão Airbnb
+# Projeto Expansão Airbnb
 ![New York Airbnb](https://github.com/mariacdev/Projeto-New-York-City-Airbnb-Open-Data/assets/134116444/5ee99c0a-f6f2-40b7-af47-b46fae6a857c)
 
 Projeto de Análise e  Ciência de Dados “New York City Airbnb Open Data”  do Kaggle ( Dados Abertos do Airbnb de Nova York )
