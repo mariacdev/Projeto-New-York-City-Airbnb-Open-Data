@@ -3,7 +3,7 @@
 
 Projeto de Análise e  Ciência de Dados “New York City Airbnb Open Data”  do Kaggle ( Dados Abertos do Airbnb de Nova York )
 
-O Projeto Expansion Airbnb é um projeto do tipo Insights reais que busca analisar as melhores oportunidades de compras de imóveis para a empresa Airbnb. O conjunto de dados descreve a atividade e as métricas de listagem em NYC, NY, para 2019.
+Realizei uma análise exploratória com o objetivo de obter informações de preços e distribuição das acomodações de imóveis para a empresa Airbnb. O conjunto de dados descreve a atividade e as métricas de listagem em NYC, NY, para 2019.
 Esse projeto é uma proposta do Curso: Python para Ciências de Dados, da Comunidade DS. O conjunto de dados públicos utilizados está disponível em [Kaggle](https://www.kaggle.com/datasets?search=New+York+City+Airbnb+Open+Data).
 
 ## 1.	Questões de Negócio
