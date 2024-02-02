@@ -51,19 +51,29 @@ Os atributos do conjunto de dados são:
 
 ### 3.2.	Ferramentas
 **Linguagem de programação:**
+
 - Python 3.10
 - PyCharm
+  
 **Visualização de dados:**
+  
 - Mapas no Python
 - Gráficos no Python
+  
 **Estatística:**
+
 - Média
 - Desvio padrão
 - Histograma
+  
 **Google Collabs**
+
 **Vscode**
+
 - IDE ( Ambiente de Desenvolvimento Integrado )
+  
 **Git e Github**
+
 - Hospedagem e controle de versionamento do projeto 
 
 ## 4.	Insights dos dados
